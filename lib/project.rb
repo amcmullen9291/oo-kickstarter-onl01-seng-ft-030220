@@ -8,7 +8,7 @@ attr_reader :title
   end 
   
   def backers 
-    @backers = backers 
+    @backers 
   end 
 
 end 
